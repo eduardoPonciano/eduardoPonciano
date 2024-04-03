@@ -1,6 +1,4 @@
 
-🚧 Repositorio em Construção
-
 <h3>SOBRE MIM</h3>
 
 Desenvolvedor Java com mais de 13 anos de experiência focado em soluções fiscais e financeiras. Especializado em tecnologias como Spring Boot, Spring Framework, JPA/Hibernate e REST, com experiência em arquitetura de sistemas e integração de serviços. Proficiente em SQL/PLSQL e Git. Sempre acompanhando e estudando novas tecnologias e frameworks.
